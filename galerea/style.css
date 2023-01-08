@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+}
+
+.img-one {
+    background-image: url(../1614544373_5-p-derevo-na-belom-fone-5.jpg);
+    background-size: 100%;
+    background-size: 100%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-two {
+    background-image: url(../1614544388_9-p-derevo-na-belom-fone-10.jpg);
+    background-size: 96%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-three {
+    background-image: url(../1614544407_12-p-derevo-na-belom-fone-16.png) ;
+    background-size: 125%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-for {
+    background-image: url(../png-transparent-a-tree-a-tree-trees-leaves.png) ;
+    background-size: 100%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-fife {
+    background-image: url(../png-transparent-tree-graphy-branch-arecaceae-tree-photography-branch-grass.png);
+    background-size: 100%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-six {
+    background-image: url(../1649559042_26-vsegda-pomnim-com-p-derevo-na-belom-fone-foto-28.jpg);
+    background-size: 100%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-seven {
+    background-image: url(../tree-clipart-transparent-12-768x780.png);
+    background-size: 96%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-eight {
+    background-image: url(../trees-png-hd-tree-trimming-butler-rural-electric-cooperative-inc-ohio-1126.png);
+    background-size: 100%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-nine {
+    background-image: url(../istockphoto-538263305-612x612.jpg);
+    background-size: 115%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.img-ten {
+    background-image: url(../png-transparent-dog-pet-sitting-illustration-tree-grass-cartoon-puppy.png);
+    background-size: 103%;
+    width: 400px;
+    height: 380px;
+    margin: 10px;
+    border-bottom-color: green;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    border: 7px solid green;
+}
+
+.mar {
+    margin-left: 303px;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0;
+}
